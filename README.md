@@ -5,8 +5,8 @@ The model is trained using text processing techniques and deployed with Streamli
 
 Technologies Used
 
-Python
-Scikit-learn
-Numpy & Pandas
-NLTK
+Python,
+Scikit-learn,
+Numpy & Pandas,
+NLTK,
 Streamlit
